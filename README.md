@@ -1,6 +1,7 @@
 # Smart Home Automation Project
 
 (ITI graduation project)
+[Explanatory Videos](https://drive.google.com/drive/folders/1T_dZeL-VsLNtljzIJPahGyp_KcfCCxDy)
 ---
 ## Project Team
 -  [Eng. Abd Alrahman Ashraf Mohamed](https://www.linkedin.com/in/ar70sm)
